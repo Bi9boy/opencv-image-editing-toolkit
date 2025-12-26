@@ -17,7 +17,7 @@ This project is designed as a **learning-focused toolkit** to strengthen fundame
 
 - Real-time image resizing (width & height)
 - Image rotation (0–360 degrees)
-- - Blur (simple averaging filter)
+- Blur (simple averaging filter)
 - Binary thresholding
 - Interactive OpenCV trackbar interface
 - Modular and clean code structure
